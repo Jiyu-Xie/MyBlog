@@ -1,5 +1,5 @@
 ---
-title: 3D Printing
+title: Additive Manufacturing
 author: Jiyu-Xie
 layout: post
 icon: fa-lightbulb
