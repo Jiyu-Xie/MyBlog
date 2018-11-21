@@ -2,7 +2,7 @@
 title: Botany Practice
 author: Jiyu-Xie
 layout: post
-icon: fa-paper-plane
+icon: fa-paw
 icon-style: regular
 ---
 
