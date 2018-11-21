@@ -2,7 +2,7 @@
 title: Robotic Prosthetics
 author: Jiyu-Xie
 layout: post
-icon: fa-slideshare
+icon: fa-road
 icon-style: regular
 ---
 See the icon?

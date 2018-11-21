@@ -2,7 +2,7 @@
 title: Additive Manufacturing
 author: Jiyu-Xie
 layout: post
-icon: fa-connectdevelop
+icon: fa-reorder
 icon-style: regular
 ---
 See the icon?
