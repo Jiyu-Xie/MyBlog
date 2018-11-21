@@ -2,7 +2,7 @@
 title: Course Projects
 author: Jiyu-Xie
 layout: post
-icon: fa-globe
+icon: fa-plug
 icon-style: regular
 ---
 

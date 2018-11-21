@@ -2,7 +2,7 @@
 title: Blog
 subtitle: The Best Moments in My Life
 layout: "page"
-icon: fa-heart
+icon: fa-bold
 order: 3
 ---
 
