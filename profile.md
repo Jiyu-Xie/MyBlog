@@ -1,20 +1,12 @@
 ---
-title: Best Moments
-subtitle: The Best Moments in My Life
+title: Profile
+subtitle: List of works by Jiyu Xie
 layout: "page"
-icon: fa-heart
-order: 3
+icon: fa-child
+order: 2
 ---
 
 Happy Engineering + Enjoy Making Things:
-
-Contents
-1. Baking: *The Anatomy of Melancholy*
-2. Photography: *The Man Without Qualities*
-3. Interview: * *
-4. Flower Arrangement: *Under the Volcano*
-5. Trekking: *The Man Without Qualities*
-6. Hiphop Dance: *The Unconsoled*
 
 <!-- PASCAL CAMPION -->
 
@@ -45,5 +37,17 @@ Today many of his pieces—including his numerous self portraits, landscapes, po
 The Van Gogh Museum in Amsterdam is dedicated to Van Gogh's work and that of his contemporaries. The Kröller-Müller Museum in Otterlo (also in the Netherlands), has another considerable collection of his paintings.[4]
 
 The listing is ordered by year and then by catalogue number. All works listed here are oil on canvas unless otherwise indicated.
+
+Contents
+1. Robert Burton: *The Anatomy of Melancholy*
+2. Robert Musil: *The Man Without Qualities*
+3. Kazuo Ishiguro: *The Unconsoled*
+4. Malcolm Lowry: *Under the Volcano*
+5. Virginia Woolf: *The Waves*
+6. James Joyce: *Finnegans Wake*
+7. Thomas Wolfe: *Look Homeward, Angel*
+8. William Thackeray: *Pendennis*
+9. Karl Marx: *Capital*
+10. James Woodforde: *The Diary of A Country Parson*
 
 source: [List of works by Vincent van Gogh - Wikipedia](https://en.wikipedia.org/wiki/List_of_works_by_Vincent_van_Gogh)
