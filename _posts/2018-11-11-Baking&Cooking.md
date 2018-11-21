@@ -2,7 +2,7 @@
 title: Baking & Cooking
 author: Jiyu-Xie
 layout: post
-icon: fa-cutlery
+icon: fa-birthday-cake
 icon-style: regular
 ---
 
