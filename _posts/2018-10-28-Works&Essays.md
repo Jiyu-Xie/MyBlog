@@ -1,5 +1,5 @@
 ---
-title: Works and Essays
+title: Course Projects
 author: Jiyu-Xie
 layout: post
 icon: fa-paper-plane

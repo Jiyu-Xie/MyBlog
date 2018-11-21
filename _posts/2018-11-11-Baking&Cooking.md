@@ -1,5 +1,5 @@
 ---
-title: The Zhiren Baking Room
+title: Baking & Cooking
 author: Jiyu-Xie
 layout: post
 icon: fa-heart
