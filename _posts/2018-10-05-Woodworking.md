@@ -10,7 +10,7 @@ icon-style: regular
 Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
 <br/> 
 
-<div  align="center">
+<div align="center">
 	<img src="{{ 'assets/images/fulls/carpentry/pro_bunnyChair01_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="WBunny Ears Chair" />
 	<br/> 
 	Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
@@ -95,16 +95,20 @@ Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nost
 	<br/> 
 	Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
 	<br/> 
-	
-	<img src="{{ 'assets/images/fulls/carpentry/pro_workshop01_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Wooden Workshop" />
-	<br/> 
-	Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
-	<br/> 
-	
-	<img src="{{ 'assets/images/fulls/carpentry/pro_workshop02_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Wooden Workshop" />
+
+	<img src="{{ 'assets/images/fulls/carpentry/pro_workshop01_pic.gif' | relative_url }}"  width = "500" height = "375" alt="Wooden Workshop" />
 	<br/> 
 	Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
 	<br/> 
 	
-
+	<img src="{{ 'assets/images/fulls/carpentry/pro_workshop02_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Wooden Workshop" />
+	<br/> 
+	Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+	<br/> 
+	
+	<img src="{{ 'assets/images/fulls/carpentry/pro_workshop03_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Wooden Workshop" />
+	<br/> 
+	Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
+	<br/> 
+	
 </div>
