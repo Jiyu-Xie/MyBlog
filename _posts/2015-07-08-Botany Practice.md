@@ -37,15 +37,15 @@ Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix i
 	
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden17_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden18_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
-	<img src="{{ 'assets/images/fulls/research_botanicalGarden19_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
-	<img src="{{ 'assets/images/fulls/research_botanicalGarden20_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden19_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden20_pic.jpg' | relative_url }}"  width = "800" height = "600" alt="Guilin Botanical Garden" />
 	
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden21_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden22_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden23_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden24_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
 	
-	<img src="{{ 'assets/images/fulls/research_botanicalGarden25_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden25_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden26_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
 </div>
 
