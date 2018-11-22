@@ -44,6 +44,9 @@ Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix i
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden22_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden23_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 	<img src="{{ 'assets/images/fulls/research_botanicalGarden24_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
+	
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden25_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden26_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
 </div>
 
 Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
