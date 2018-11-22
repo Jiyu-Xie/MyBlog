@@ -2,7 +2,7 @@
 title: Nano-robotics
 author: Jiyu-Xie
 layout: post
-icon: fa-lightbulb
+icon: fa-magnet
 icon-style: regular
 ---
 Magnetic Controlled DNA Origami Nano-robotics

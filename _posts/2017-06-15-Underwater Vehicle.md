@@ -2,7 +2,7 @@
 title: Underwater-Vehicle
 author: Jiyu-Xie
 layout: post
-icon: fa-paper-plane
+icon: fa-tachometer
 icon-style: regular
 ---
 A Modular Designed Bionic Autonomous Underwater Vehicle

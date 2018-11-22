@@ -2,7 +2,7 @@
 title: Woodworking
 author: Jiyu-Xie
 layout: post
-icon: fa-paper-plane
+icon: fa-gavel
 icon-style: regular
 ---
 1.Wood Bowl
