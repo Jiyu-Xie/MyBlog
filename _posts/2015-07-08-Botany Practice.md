@@ -14,7 +14,9 @@ Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae a
 
 Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
 
-<span class="image right"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
+<div  align="center">    
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden02_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
+</div>
 
 Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
 
