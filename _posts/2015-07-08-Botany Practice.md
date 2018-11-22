@@ -14,9 +14,36 @@ Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae a
 
 Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
 
-<div  align="center">    
-	<img src="{{ 'assets/images/fulls/research_botanicalGarden03_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
-	<img src="{{ 'assets/images/fulls/research_botanicalGarden04_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Zhiren Baking Room" />
+<div  align="center">
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden01_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden02_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden03_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden04_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden05_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden06_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden07_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden08_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden09_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden10_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden11_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden12_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
+	
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden13_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden14_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden15_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden16_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden17_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden18_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden19_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden20_pic.jpg' | relative_url }}"  width = "600" height = "800" alt="Guilin Botanical Garden" />
+	
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden21_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden22_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden23_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
+	<img src="{{ 'assets/images/fulls/research_botanicalGarden24_pic.jpg' | relative_url }}"  width = "800" height = "500" alt="Guilin Botanical Garden" />
 </div>
 
 Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
